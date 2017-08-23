@@ -82,11 +82,18 @@ a:focus, a:hover, a:active {
   content: " ";
 }
 
+
 span {
   font-size: 14px;
   font-weight: 400;
   font-family: Hind, sans-serif;
   color: #bfc1c7;
+}
+
+.emph {
+  font-size: 18px;
+  font-weight: 600;
+  color: #a6a7aa;
 }
 
 h1, h2, h3, h4, h5, h6 {
