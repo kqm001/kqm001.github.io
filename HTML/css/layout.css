@@ -126,6 +126,17 @@ h4 {
   font-size: 22px;
 }
 
+.work-link ul {
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px
+}
+
+.work-link li {
+  display: inline-block;
+  padding-right: 50px;
+}
+
 ::selection {
   color: #fff;
   background: #17bed2;
